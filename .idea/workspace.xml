@@ -115,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/generate/generatorConfig.xml" />
         <option value="$PROJECT_DIR$/src/main/java/org/spring/springboot/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/spring/springboot/bean/MyShiroRealm.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -653,7 +654,7 @@
       <workItem from="1503047203029" duration="2708000" />
       <workItem from="1503303079203" duration="3993000" />
       <workItem from="1503364238221" duration="7770000" />
-      <workItem from="1503454429573" duration="3957000" />
+      <workItem from="1503454429573" duration="4026000" />
     </task>
     <task id="LOCAL-00001" summary="去除target">
       <created>1503471849264</created>
@@ -667,11 +668,17 @@
       <option name="project" value="LOCAL" />
       <updated>1503471950077</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="去除多余文件">
+      <created>1503472009584</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1503472009584</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75986000" />
+    <option name="totallyTimeSpent" value="76055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
